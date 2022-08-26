@@ -9,4 +9,4 @@
 <!--- - ⚡ Fun fact: ...--->
 
 <!--- [![Sita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sitatec&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitatec&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitatec&langs_count=10&layout=compact&custom_title=Repos%27%20languages&hide=html,css,shell,swift,plpgsql,qmake,ruby,twig,objective-c,purebasic)](https://github.com/anuraghazra/github-readme-stats)
