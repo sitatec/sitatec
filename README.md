@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Golang apps, Microservices based systems
 - 💬 Ask me about Software Engineering related topics
 - 📫 How to reach me: sita@berete.dev
-- 😄 Pronouns: he/him
+<!--- 😄 Pronouns: he/him --->
 <!--- - ⚡ Fun fact: ...--->
 
 <!--- [![Sita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sitatec&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) --->
