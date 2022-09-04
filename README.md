@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sita Bérété, a passionate self-taught Software Engineer.
 
 - 🔭 I’m currently working on mobile development at [Bayzat](http://bayzat.com)
-- 🌱 I’m currently learning Golang & Microservices architectural pattern
+- 🌱 I’m learning Golang & Microservices architectural pattern
 - 👯 I’m looking to collaborate on Golang apps, Microservices based systems
 - 💬 Ask me about Software Engineering related topics
 - 📫 How to reach me: sita@berete.dev
