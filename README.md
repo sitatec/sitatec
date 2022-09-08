@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Sita Bérété, a passionate self-taught Software Engineer.
 
 - 🔭 I’m currently working on mobile development at [Bayzat](http://bayzat.com)
-- 🌱 I’m learning Golang & Microservices architectural pattern
-- 👯 I’m looking to collaborate on Golang apps, Microservices based systems
-- 💬 Ask me about Software Engineering related topics
+- 🌱 I’m learning Microservices architectural pattern
+- 👯 I’m looking to collaborate on Reactjs/Nextjs apps, Microservices based systems
 - 📫 How to reach me: sita@berete.dev
-<!--- 😄 Pronouns: he/him --->
+<!--- - 💬 Ask me about Software Engineering related topics -->
+<!--- - 😄 Pronouns: he/him --->
 <!--- - ⚡ Fun fact: ...--->
 
 <!--- [![Sita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sitatec&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) --->
