@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Sita Bérété, a passionate self-taught Software Engineer.
 
 - 🔭 I’m currently working at [Bayzat](http://bayzat.com)
-- 🌱 I’m learning Microservices architectural pattern
-<!--- - 👯 I’m looking to collaborate on Reactjs/Nextjs apps, Microservices based systems
+<!--- - 🌱 I’m learning Microservices architectural pattern --->
+- 👯 I’m looking to collaborate on Microservices based systems
 <!--- - 📫 How to reach me: sita@berete.dev --->
 <!--- - 💬 Ask me about Software Engineering related topics --->
 <!--- - 😄 Pronouns: he/him --->
