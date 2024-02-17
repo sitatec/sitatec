@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Sita Bérété, a passionate self-taught Software Engineer.
+With 5 years of experience designing, building, architecting, and deploying high-quality software with excellent user experience, I'm currently learning full-time to transition to Machine Learning.
 
-- 🔭 I’m currently working at [Bayzat](http://bayzat.com)
+
+<!--- - 🔭 I’m currently working at [Bayzat](http://bayzat.com) --->
 <!--- - 🌱 I’m learning Microservices architectural pattern --->
-- 👯 I’m looking to collaborate on Microservices based systems
+<!--- - 👯 I’m looking to collaborate on Microservices based systems --->
 <!--- - 📫 How to reach me: sita@berete.dev --->
 <!--- - 💬 Ask me about Software Engineering related topics --->
 <!--- - 😄 Pronouns: he/him --->
