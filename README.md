@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sita Bérété, a passionate self-taught Software Engineer.
-With 5 years of experience designing, building, architecting, and deploying high-quality software with excellent user experience. 
-I have a solid foundation in Machine Learning, with a focus on Large Language Models (LLM)
-I'm currently building Dwino AI (dwino.ai)
+- With 5 years of experience designing, building, architecting, and deploying high-quality software with excellent user experience. 
+- I have a solid foundation in Machine Learning, with a focus on Large Language Models (LLM)
+- I'm currently building Dwino AI (dwino.ai)
 
 
 <!--- - 🔭 I’m currently working at [Bayzat](http://bayzat.com) --->
