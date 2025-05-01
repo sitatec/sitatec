@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Sita Bérété, a passionate self-taught Software Engineer.
-- 5 years of experience architecting, developing, and deploying high-quality software with excellent user experience. 
+- 7 years of experience architecting, developing, and deploying high-quality software with excellent user experience. 
 - Solid foundation in Machine Learning, with a focus on Large Language Models (LLM)
 - Currently building Dwino AI (dwino.ai)
 
