@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Sita Bérété, a passionate self-taught Software Engineer.
 - Expert in architecting and developing high-quality software with excellent user experience. 
 - Solid foundation in Machine Learning, with a focus on Transformer-based Models (Large Language Models & Diffusion Transformer Models)
-- Currently building Dwino AI (dwino.ai)
 
 
 <!--- - 🔭 I’m currently working at [Bayzat](http://bayzat.com) --->
